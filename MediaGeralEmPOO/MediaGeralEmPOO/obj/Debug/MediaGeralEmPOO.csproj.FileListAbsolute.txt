@@ -1,0 +1,7 @@
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\bin\Debug\MediaGeralEmPOO.exe.config
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\bin\Debug\MediaGeralEmPOO.exe
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\bin\Debug\MediaGeralEmPOO.pdb
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\obj\Debug\MediaGeralEmPOO.csproj.AssemblyReference.cache
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\obj\Debug\MediaGeralEmPOO.csproj.CoreCompileInputs.cache
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\obj\Debug\MediaGeralEmPOO.exe
+C:\Users\joelz\Documents\GitHub\Media-Geral-Em-POO\MediaGeralEmPOO\MediaGeralEmPOO\obj\Debug\MediaGeralEmPOO.pdb
